@@ -1,3 +1,6 @@
 [submodule "thirdparty/libPhoenixPlayer"]
 	path = thirdparty/libPhoenixPlayer
 	url = https://github.com/SunRain/libPhoenixPlayer.git
+[submodule "thirdparty/UserInterfaceRockRokr"]
+	path = thirdparty/UserInterfaceRockRokr
+	url = https://github.com/SunRain/UserInterfaceRockRokr.git
