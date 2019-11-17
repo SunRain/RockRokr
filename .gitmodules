@@ -1,0 +1,3 @@
+[submodule "thirdparty/libPhoenixPlayer"]
+	path = thirdparty/libPhoenixPlayer
+	url = https://github.com/SunRain/libPhoenixPlayer.git
