@@ -5,7 +5,7 @@ CONFIG += plugin
 
 TARGET = $${PLUGINS_PREFIX}/UserInterfaceRockRokr
 
-include ($${PHOENIX_PLUGIN_PATH}/UserInterface/RockRokr/RockRokr.pri)
+include ($${THRIDPARTY_PATH}/UserInterfaceRockRokr/RockRokr.pri)
 
 include(plugins_common_cmd.pri)
 
